@@ -1,5 +1,11 @@
 export default [
     {
+        title: 'Poppin',
+        imgUrl: '/assets/poppin.png',
+        stack: ['Vite', 'React', 'JavaScript', 'Styled Components', 'PostgreSQL', 'Prisma'],
+        link: 'https://github.com/Angl99/poppin'
+    },
+    {
         title: 'Developer Portfolio',
         imgUrl: '',
         stack: ['Vite', 'React', 'JavaScript', 'Tailwind'],
@@ -21,6 +27,6 @@ export default [
         title: 'AniTrack',
         imgUrl: '/assets/AniTrack.png',
         stack: ['JavaScript', 'HTML', 'CSS'],
-        link: 'https://github.com/Angl99/DisneyPlus-Clone'
+        link: 'https://github.com/Angl99/Front-end-Portfolio-Project'
     },
 ]

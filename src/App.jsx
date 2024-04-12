@@ -11,6 +11,7 @@ function App() {
       <div>
         <Intro />
         <Portfolio />
+        <Timeline />
       </div>
     </>
   )

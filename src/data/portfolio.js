@@ -1,31 +1,31 @@
 export default [
     {
         title: 'Poppin',
-        imgUrl: '/assets/poppin.png',
+        imgUrl: 'public/assets/poppin.png',
         stack: ['Vite', 'React', 'JavaScript', 'Styled Components', 'PostgreSQL', 'Prisma'],
         link: 'https://github.com/Angl99/poppin'
     },
     {
         title: 'Developer Portfolio',
-        imgUrl: '/assets/portfolio.png',
+        imgUrl: 'public/assets/portfolio.png',
         stack: ['Vite', 'React', 'JavaScript', 'Tailwind'],
         link: 'https://github.com/Angl99/portfolio'
     },
     {
         title: 'Disney+ Clone',
-        imgUrl: '/assets/disneyClone.png',
+        imgUrl: 'public/assets/disneyClone.png',
         stack: ['Vite', 'React', 'JavaScript', 'Redux', 'Styled Components', 'Firebase'],
         link: 'https://github.com/Angl99/DisneyPlus-Clone'
     },
     {
         title: 'Youtube Clone',
-        imgUrl: '/assets/YoutubeClone.png',
+        imgUrl: 'public/assets/YoutubeClone.png',
         stack: ['React', 'JavaScript', 'HTML','CSS'],
         link: 'https://github.com/Angl99/03-03p-youtube-clone'
     },
     {
         title: 'AniTrack',
-        imgUrl: '/assets/AniTrack.png',
+        imgUrl: 'public/assets/AniTrack.png',
         stack: ['JavaScript', 'HTML', 'CSS'],
         link: 'https://github.com/Angl99/Front-end-Portfolio-Project'
     },

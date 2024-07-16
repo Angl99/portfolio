@@ -1,5 +1,5 @@
 {
-  "homepage": "https://angl99.github.io/",
+  "homepage": "https://angl99.github.io/portfolio",
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
@@ -11,7 +11,7 @@
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
-    "homepage": "https://angl99.github.io/"
+    "homepage": "https://angl99.github.io/portfolio"
   },
   "dependencies": {
     "react": "^18.2.0",

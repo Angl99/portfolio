@@ -3,7 +3,7 @@ import Contact from './components/Contact.jsx';
 import Footer from './components/Footer.jsx';
 import Intro from './components/Intro.jsx';
 import Portfolio from './components/Portfolio.jsx';
-import Timeline from './components/Timeline.jsx';.jsx
+import Timeline from './components/Timeline.jsx';
 
 function App() {
 	const [theme, setTheme] = useState(null);

@@ -1,5 +1,11 @@
 export default [
     {
+        year: '2024',
+        title: 'Participated in Hackathon sponsored by the New York Times!',
+        duration: '3 Days',
+        details: 'Participated in Hackathon sponsored by the New York Times, with the goal of using the NYT API to make a way for people to interact with the news in a more interesting way.'
+    },
+    {
         year: '2023',
         title: 'Joined the Pursuit Program',
         duration: '10 Months',

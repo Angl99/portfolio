@@ -6,7 +6,7 @@ import Portfolio from './components/Portfolio.jsx';
 import Timeline from './components/Timeline.jsx';
 
 function App() {
-	const [theme, setTheme] = useState('light');
+	const [theme, setTheme] = useState(null);
 
 	useEffect(() => {
 		if (window.matchMedia('(prefers-color-scheme: dark)').matches) {

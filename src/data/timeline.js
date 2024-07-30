@@ -8,8 +8,14 @@ export default [
     {
         year: '2023',
         title: 'Joined the Pursuit Program',
-        duration: '10 Months',
+        duration: '1 year',
         details:'Joined the pursuit program to move myself to the next level of my career and further my passion for software engineering.'
+    },
+    {
+        year: '2022',
+        title: 'Joined my first Fortune 500 Company!',
+        duration:'10 months',
+        details: "Joined my big boy company where I learned how to thrive and learn in a fast paced environment. Picking up new skills quickly is a must in this industry and having amazing co-workers that encourage questions are a must. I learned what it takes to be a DevOps engineer which encompasses many skillsets. Understanding of AWS architecture, Delpoyment strategies(Docker, Kubernetes), Data and log aggregation on a large scale, SQL, Customer service skills, as well as software engineering." 
     },
     {
         year: '2022',

@@ -1,16 +1,16 @@
 export default [
     {
+        title: 'Auction Alley',
+        imgUrl: '/assets/AuctionAlley.png',
+        stack: ['Vite', 'React', 'JavaScript', 'Tailwind','Material-UI', 'Barcode Detection API', 'PostgreSQL', 'Firebase'],
+        link: 'https://github.com/Angl99/CollectUp'
+    },
+    {
         title: 'Poppin',
         imgUrl: '/assets/poppin.png',
         stack: ['Vite', 'React', 'JavaScript', 'Styled Components', 'PostgreSQL', 'Prisma'],
         link: 'https://github.com/Angl99/poppin'
     },
-    // {
-    //     title: 'Developer Portfolio',
-    //     imgUrl: '/assets/portfolio.png',
-    //     stack: ['Vite', 'React', 'JavaScript', 'Tailwind'],
-    //     link: 'https://github.com/Angl99/portfolio'
-    // },
     {
         title: 'Disney+ Clone',
         imgUrl: '/assets/disneyClone.png',
